@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html,
+#root {
+  font-family: 'Roboto', sans-serif;
+  background-color: white;
+}
+
+input,
+button,
+textarea {
+  outline: none;
+  border: none;
+
+}
+
+a,
+li,
+ul {
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+}
