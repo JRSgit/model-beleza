@@ -30,8 +30,8 @@ a todo o codigo do site. Ferramentas como o Swiper, styled-components foram tamb
 <br>
 <h1>Breve demostração do site</h1>
 
-<video width="560" height="315" controls autoplay>
-  <source src="https://www.youtube.com/embed/q20v-mNVD4A">
+<video width="560" height="315" controls >
+  <source src="https://www.youtube.com/embed/q20v-mNVD4A" />
 </video>
 
 
