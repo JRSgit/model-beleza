@@ -34,7 +34,6 @@ a todo o codigo do site. Ferramentas como o Swiper, styled-components foram tamb
 <br>
 <p>https://www.youtube.com/embed/q20v-mNVD4A </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q20v-mNVD4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## JRCcode 
