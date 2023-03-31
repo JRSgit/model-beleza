@@ -30,8 +30,9 @@ a todo o codigo do site. Ferramentas como o Swiper, styled-components foram tamb
 <br>
 <h1>Breve demostração do site</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q20v-mNVD4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+<video width="560" height="315" controls autoplay>
+  <source src="https://www.youtube.com/embed/q20v-mNVD4A">
+</video>
 
 
 ## JRCcode 
