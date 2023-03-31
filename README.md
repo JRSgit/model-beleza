@@ -28,9 +28,15 @@ a todo o codigo do site. Ferramentas como o Swiper, styled-components foram tamb
 <p> Esse site conterá uma area para ADM realizar mudanças nas logos, nas copy, e mas demais seções do site.
 </p>
 <br>
-<h1>Breve demostração do site</h1>
+<h1>Breve demostração do site </h1>
+<br>
+<a href='https://www.youtube.com/embed/q20v-mNVD4A'>Site video</a>
+<br>
+<p>https://www.youtube.com/embed/q20v-mNVD4A </p>
 
-<a href='https://www.youtube.com/embed/q20v-mNVD4A' _blank>
+<video width='415px' heigth='310px' controls>
+  <source src="https://www.youtube.com/embed/q20v-mNVD4A" >
+</video>
 
 
 ## JRCcode 
